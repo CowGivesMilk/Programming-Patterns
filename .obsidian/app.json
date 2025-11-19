@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Assets",
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "Assets/",
+    "README"
+  ]
+}
