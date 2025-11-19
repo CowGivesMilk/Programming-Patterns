@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#sub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d72a74011a02b9a",
+  "active": "ef551f9de1efdb99",
   "lastOpenFiles": [
     "Singleton Pattern.md",
     "README.md",
