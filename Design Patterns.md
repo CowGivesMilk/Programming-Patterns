@@ -1,4 +1,3 @@
-Types of Design Pattern
 1. [[Command Pattern]]
 2. [[Flyweight Pattern]]
 3. [[Observer Pattern]]

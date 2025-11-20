@@ -6,5 +6,6 @@
   "userIgnoreFilters": [
     "Assets/",
     "README"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
