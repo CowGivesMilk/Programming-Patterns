@@ -11,14 +11,10 @@
             "id": "2d717d9e8a2eb901",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "d9b557afe9c89d8f",
@@ -170,15 +166,15 @@
   },
   "active": "2d717d9e8a2eb901",
   "lastOpenFiles": [
+    "TODO.md",
     "Design Patterns.md",
     "Decoupling Patterns.md",
     "Behavioral Pattern.md",
-    "TODO.md",
     "Singleton Pattern.md",
     "Observer Pattern.md",
     "Assets/Code/Observer Pattern - Classic Example.md",
     "README.md",
-    "Dying Breath approach - Observer Pattern.md",
+    "Assets/Code/Dying Breath approach - Observer Pattern.md",
     "Sequencing Patterns.md",
     "Patterns.md",
     "Optimization Patterns.md",

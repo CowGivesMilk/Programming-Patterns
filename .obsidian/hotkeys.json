@@ -1,0 +1,11 @@
+{
+  "global-search:open": [],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}
