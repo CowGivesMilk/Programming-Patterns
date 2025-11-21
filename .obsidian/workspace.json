@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c52a5da8836651",
+        "id": "021c7e3e47505e67",
         "type": "tabs",
         "children": [
           {
-            "id": "436355f3ba9de6d2",
+            "id": "2d717d9e8a2eb901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TODO.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,19 +168,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "436355f3ba9de6d2",
+  "active": "2d717d9e8a2eb901",
   "lastOpenFiles": [
+    "Design Patterns.md",
+    "Decoupling Patterns.md",
+    "Behavioral Pattern.md",
     "TODO.md",
-    "Observer Pattern.md",
     "Singleton Pattern.md",
+    "Observer Pattern.md",
+    "Assets/Code/Observer Pattern - Classic Example.md",
+    "README.md",
+    "Dying Breath approach - Observer Pattern.md",
     "Sequencing Patterns.md",
     "Patterns.md",
     "Optimization Patterns.md",
-    "Decoupling Patterns.md",
-    "Behavioral Pattern.md",
-    "Design Patterns.md",
-    "Assets/Code/Observer Pattern - Example.md",
-    "README.md",
     "Assets/Code/Is Singleton Pattern even Necessary.md",
     "Assets/Code/Singleton Subclass Example (Filesystem).md",
     "Assets/Code/Modern Implementation - Singleton (Post C++11).md",

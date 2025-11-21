@@ -17,7 +17,7 @@ There are times when a class cannot perform correctly if there is more than one 
 	![[Singleton Subclass Example (Filesystem)]]
 
 ### Disadvantages
-- **It’s a GLOBAL VARIABLE.**
+- It’s a **GLOBAL VARIABLE.**
 - **Lazy initialization takes control away from you**
 		Initialization at runtime is more time consuming. If an instance will be created a `static` will be better in performance critical tasks. 
 - **Solves two problems instead of one**
@@ -34,7 +34,6 @@ There are times when a class cannot perform correctly if there is more than one 
 
 ### Conclusion
 The question remains, where should we use the real Singleton pattern?
-
 Try to avoid if possible as the project grows it can create Readability and *optimization (only in performance critical code)* problem.
 
 [^1]: Pure Functions: Functions which satisfies two conditions. 
